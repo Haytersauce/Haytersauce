@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Haytersauce
+- 🌱 I’m currently learning powershell and how to use VSCode.
+- 📫 How to reach me: Haytersauceboss#7792 on Discord.
